@@ -45,3 +45,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+## 💼 Projects
+
+| Project Name | Description | Tech Stack | Link |
+|---------------|-------------|-------------|------|
+| **Car Sharing Web App** | Full-stack ride-sharing application developed as a university team project | Angular, Java, Spring Boot, SQL, Docker, WebSocket (STOMP), Swagger/OpenAPI, Git | *[Car-Sharing](https://github.com/Daoudi-Mohammedd/car-sharing)* |
