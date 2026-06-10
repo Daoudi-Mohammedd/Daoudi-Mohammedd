@@ -55,3 +55,13 @@
 | Project Name | Description | Tech Stack | Link |
 |---------------|-------------|-------------|------|
 | **Car Sharing Web App** | Full-stack ride-sharing application developed as a university team project | Angular, Java, Spring Boot, SQL, Docker, WebSocket (STOMP), Swagger/OpenAPI, Git | *[Car-Sharing](https://github.com/Daoudi-Mohammedd/car-sharing)* |
+
+---
+
+## 📫 Contact
+
+- 🌐 LinkedIn: [Daoudi Mohammed](www.linkedin.com/in/daoudi-mohammed-137658347)
+- 💼 GitHub: [Daoudi-Mohammedd](https://github.com/Daoudi-Mohammedd)
+
+
+
