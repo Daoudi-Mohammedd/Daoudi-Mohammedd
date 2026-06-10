@@ -29,6 +29,11 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
 
 ---
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daoudi-Mohammedd&layout=compact&theme=tokyonight)
+
+---
 
 ### 🗄️ Databases & APIs
 
